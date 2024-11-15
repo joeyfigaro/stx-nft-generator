@@ -1,15 +1,5 @@
-# avatar-nft-cli
+# STX Dicebear NFT Generator
 
-To install dependencies:
+---
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.35. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Nothing super interesting to see here. Just playing around with some bun scripts and Dicebear packages to create some avatars.
