@@ -11,6 +11,7 @@
   "dependencies": {
     "@dicebear/collection": "^9.2.2",
     "@dicebear/core": "^9.2.2",
+    "@hashlips-lab/art-engine": "^2.0.0-alpha7",
     "pure-rand": "^6.1.0"
   }
 }
